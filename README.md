@@ -1,5 +1,6 @@
 # Grocery-Management-System 
-![Uploading image.png…]()
+
+<img width="1536" height="1024" alt="Grocery Management System" src="https://github.com/user-attachments/assets/0c643d43-6c02-403d-ab24-107466ecb786" />
 
 🛒 Grocery Management System – C Project
 This repository contains a Grocery Management System programmed in C language that allows users to manage store inventory, maintain a cart, and generate customer bills.
