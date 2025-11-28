@@ -1,2 +1,31 @@
 # Grocery-Management-System
-🛒 Grocery Management System – C Project  This repository contains a Grocery Management System developed in C programming, designed to manage grocery inventory through a simple and efficient console-based interface. The project uses essential C concepts such as file handling, structures, functions, loops, and menu-driven programming.
+🛒 Grocery Management System – C Project
+This repository contains a Grocery Management System programmed in C language that allows users to manage store inventory, maintain a cart, and generate customer bills.
+This project is fully structured using multiple .c files and header files for clean, maintainable code.
+
+📌 Features
+Inventory Management
+
+✔ Add new grocery items
+✔ View all available items
+✔ Search items by ID or name
+✔ Update item details (price, quantity, name)
+✔ Delete items permanently
+
+Cart System
+
+✔ Add items to customer cart
+✔ View cart contents
+✔ Automatic quantity validation
+
+Billing System
+
+✔ Generate final bill with totals
+✔ Auto-calculated grand total
+✔ Saves billing summary (optional based on your code)
+
+Utilities
+
+✔ Clear screen
+✔ Pause program
+✔ Input handling helpers
