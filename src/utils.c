@@ -6,7 +6,3 @@ void pauseProgram() {
     printf("\nPress Enter to continue...");
     getchar();
 }
-
-void clearScreen() {
-    system("clear || cls");
-}
