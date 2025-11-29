@@ -2,6 +2,5 @@
 #define UTILS_H
 
 void pauseProgram();
-void clearScreen();
 
 #endif
