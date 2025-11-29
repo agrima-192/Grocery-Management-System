@@ -10,7 +10,6 @@ int main() {
     int choice;
 
     while (1) {
-        clearScreen();
 
         printf("\n========== GROCERY MANAGEMENT SYSTEM ==========\n");
         printf("1. Add Item\n");
@@ -44,3 +43,4 @@ int main() {
 
     return 0;
 }
+
